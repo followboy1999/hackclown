@@ -16,7 +16,7 @@ nuclei扫描<br>
 ![image](https://github.com/followboy1999/hackclown/blob/main/img/searchsploit.png)
 ![image](https://github.com/followboy1999/hackclown/blob/main/img/nuclei.png)
 ![image](https://github.com/followboy1999/hackclown/blob/main/img/portscan.png)
-![image]()
+
 # 安装
 1.安装mongodb</br>
 下载地址：https://www.mongodb.com/try/download/community<br>
