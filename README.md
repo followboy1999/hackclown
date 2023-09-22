@@ -1,6 +1,13 @@
-# hackclown
-
-# release v0.1
+# v0.1 版 
+# 增加功能：
+1.android常见漏洞介绍及利用方法</br>
+2.增加了服务器后端，功能包括：</br>
+searchsploit查询</br>
+端口扫描</br>
+http服务探测</br>
+目录扫描</br>
+nuclei扫描</br>
+其他插件式扫描</br>
 
 # 安装
 1.安装mongodb</br>
