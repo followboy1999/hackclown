@@ -1,4 +1,7 @@
 # v0.1 版 
+start_gui.bat:负责启动后端服务器和前端gui程序<br>
+server:后端API服务程序目录，使用python编写<br>
+hackclown：前端界面程序目录，使用react + typescript + electron编写<br>
 # 增加功能：
 1.android常见漏洞介绍及利用方法</br>
 2.增加了服务器后端，功能包括：</br>
@@ -8,7 +11,6 @@ http服务探测</br>
 目录扫描</br>
 nuclei扫描</br>
 其他插件式扫描</br>
-
 # 安装
 1.安装mongodb</br>
 双击运行mongodb-windows-x86_64-7.0.1-signed.msi</br>
